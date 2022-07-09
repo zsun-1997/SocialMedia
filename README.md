@@ -24,6 +24,5 @@ Create a `.env` file in the root directory, and copy the contents from [.env.sam
 npm install
 ```
 ## Testing
-
 You can use cURL or a tool like [Postman](https://www.postman.com/) to test the API.
-You can view the test cases in the test file
+You can view the test cases in the test file.
